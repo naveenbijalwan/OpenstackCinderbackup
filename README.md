@@ -1,5 +1,6 @@
-# OpenstackCinderbackup
-#This script takes the backup of all non-bootable volumes of shutoff VMs in Openstack and send email to mailid if provided
+#OpenstackCinderbackup
+
+This script takes use cinder to take backup of all non-bootable volumes of shutoff VMs in Openstack and send email to mailid if provided
 
 Usage:
 
